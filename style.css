@@ -9,4 +9,7 @@
     height: 85vh;
 }
 
+.carousel-caption {
+	bottom: 5rem;
+}
 /* Carousel style end */
